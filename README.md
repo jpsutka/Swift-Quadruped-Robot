@@ -46,12 +46,6 @@ Upload the firmware from the [`/Firmware`](./Firmware) folder to the ESP32 using
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the code and designs as you see fit. Please provide attribution to this repository when sharing your work.
-
----
-
 ## Acknowledgments
 
 A huge thank you to the open-source robotics community for their inspiration and resources. This project would not have been possible without their contributions.
