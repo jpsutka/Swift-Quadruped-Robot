@@ -21,6 +21,7 @@ Swift is a lightweight, and highly functional quadruped robot that can be used f
 
 - **`/3D_Models`**: STL files for 3D printing the robot's parts.
 - **`/Firmware`**: Code for controlling the quadruped using an ESP32.
+- **`/Media`**: Images and videos.
 - **`/Parts_List.xlsx`**: A detailed spreadsheet of all the parts required to build Swift.
 
 ---
