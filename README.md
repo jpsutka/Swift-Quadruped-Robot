@@ -46,12 +46,6 @@ Upload the firmware from the [`/Firmware`](./Firmware) folder to the ESP32 using
 
 ---
 
-## Acknowledgments
-
-A huge thank you to the open-source robotics community for their inspiration and resources. This project would not have been possible without their contributions.
-
----
-
 ## Contact
 
 If you have any questions or need support, feel free to reach out:
