@@ -1,7 +1,6 @@
 
 # Swift Quadruped Robot
 
-Welcome to the **Swift Quadruped Robot** project! 
 This repository contains all the files and documentation you should need to build, assemble, and program this 3D-printed quadruped. 
 This project is designed to be open-source and accessible for robotics enthusiasts.
 
